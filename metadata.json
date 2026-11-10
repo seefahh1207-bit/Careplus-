@@ -1,0 +1,7 @@
+{
+  "name": "Careplus+",
+  "description": "แอปพลิเคชัน Careplus+ สำหรับการดูแลและฟื้นฟูตนเองหลังการผ่าตัดช่องท้อง ตามทฤษฎีการพยาบาลของโอเล็ม พร้อมเช็คลิสต์ บันทึกอาการปวด ประเมินแผล และสายด่วนฉุกเฉิน 1719 รพ.กรุงเทพเชียงใหม่",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
